@@ -5,7 +5,6 @@
 - DoB : 09/23/03
 - Nationality : Thai
 - Work : Manager@[PIXELAR](https://pixelar.co.th/)
-- Education : [Computer Science](https://www.sit.kmutt.ac.th/bsc-cs/curriculum-bsc-cs/), [School of Information Technology](https://www.sit.kmutt.ac.th/), [KMUTT](https://www.kmutt.ac.th/en/home/)
 - Interests : Game dev, IoT, DevOp
 ## Skills
 I'm trying to learn :
